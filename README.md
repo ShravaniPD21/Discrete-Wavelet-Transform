@@ -1,5 +1,11 @@
 # 📊 Discrete Wavelet Transform (DWT) for Digital Image Processing using Python
 
+![Stars](https://img.shields.io/github/stars/ShravaniPD21/Discrete-Wavelet-Transform-DIP?style=social)
+![Forks](https://img.shields.io/github/forks/ShravaniPD21/Discrete-Wavelet-Transform-DIP?style=social)
+![Issues](https://img.shields.io/github/issues/ShravaniPD21/Discrete-Wavelet-Transform-DIP)
+![License](https://img.shields.io/github/license/ShravaniPD21/Discrete-Wavelet-Transform-DIP)
+
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green)
 ![PyWavelets](https://img.shields.io/badge/PyWavelets-DWT-orange)
