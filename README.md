@@ -1,5 +1,11 @@
 # 📊 Discrete Wavelet Transform (DWT) for Digital Image Processing using Python
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green)
+![PyWavelets](https://img.shields.io/badge/PyWavelets-DWT-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+
 ## 📝 Abstract
 Discrete Wavelet Transform (DWT) is a powerful signal and image processing technique that provides time–frequency representation of data. Unlike Fourier Transform, DWT analyzes signals at multiple resolutions, making it highly suitable for image compression, denoising, and feature extraction.
 
