@@ -56,3 +56,6 @@ The Discrete Wavelet Transform decomposes an image into four frequency component
 
 ---
 
+Author: Shravani Prashant Deshpande
+SDE at Capgemini
+
